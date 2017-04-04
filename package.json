@@ -1,0 +1,27 @@
+{
+  "name": "wikipedia-extension",
+  "version": "0.0.1",
+  "description": "Wikipedia extension for chrome",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/martinbee/wikipedia-chrome-extension.git"
+  },
+  "keywords": [
+    "chrome",
+    "wikipedia",
+    "extension"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinbee/wikipedia-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/martinbee/wikipedia-chrome-extension#readme",
+  "dependencies": {
+    "react": "^15.4.2"
+  }
+}
