@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Wikipedia Right Click Search",
+  "description": "Right click and select search Wikipedia.",
+  "version": "0.1",
+
+  "browser_action": {
+   "default_icon": "Wikipedia.png",
+   "default_popup": "index.html"
+  },
+  "permissions": [
+   "activeTab"
+  ]
+}
